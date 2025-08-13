@@ -41,7 +41,7 @@ Provided in the writeup!
 ## Greetz and Thank You's
 Greetz:
 - [The Algebraists Anonymous](https://aamath.org)
-- DC702
+- [DC702](https://www.dc702.space/)
 
 Thank You's:
 - cookies & aj
