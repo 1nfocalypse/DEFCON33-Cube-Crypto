@@ -25,7 +25,7 @@ free access to the conference. No small thing!
 ## Overview
 - Challenge 1: Taking Candy From the Crib - an exercise in breaking a weak stream cipher using a LCG for a keystream via cribdragging and Marsaglia's Theorem.
 - Challenge 2: Friendly Primes - a Fermat Factorization challenge for RSA-4096.
-- Challenge 3: Hasty Handshakes - a textbook Hastad's Broadcast Attack challenge
+- Challenge 3: Hasty Handshakes - a textbook Hastad's Broadcast Attack challenge.
 - Challenge 4: Cracking Crypto Like the NSA - a curve25519-based implementation of DUAL_EC_DRBG, requiring use of the backdoor to obtain the flag.
 - Challenge 5: Move Over - the MOV attack on a custom-generated elliptic curve of embedding degree 1. 
 
