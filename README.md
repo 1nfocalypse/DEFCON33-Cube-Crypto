@@ -17,7 +17,7 @@
 </p>
 
 ## What is this?
-This is an overview and guide to the modern cryptography challenges presented in the ? Cube CTF at DEFCON 33. While source, tooling, and flags are retained, this writeup discusses the motivation behind each challenge,
+This is an overview and guide to the modern cryptography challenges presented in the [? Cube CTF](https://0x3fcube.com/) at DEFCON 33. While source, tooling, and flags are retained, this writeup discusses the motivation behind each challenge,
 why each challenge was selected, and how it was supposed to be solved. For those unfamiliar with DEFCON culture, multiple contests are held throughout the conference, and at the end, The Dark Tangent, or DT, selects
 some of them. Nobody quite knows how his mind works, but usually, the selected contests are difficult or culturally relevant to the conference. Those who win them are awarded a "black badge", which grants lifetime
 free access to the conference. No small thing!
