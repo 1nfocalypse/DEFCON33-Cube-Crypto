@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://choosealicense.com/licenses/CC-BY-SA-4.0/">
+  <a href="https://choosealicense.com/licenses/cc-by-sa-4.0/">
   	<img alt="License: CC-BY-SA-4.0" src="https://img.shields.io/github/license/1nfocalypse/DEFCON33-Cube-Crypto"/>
   </a>
 </p>
